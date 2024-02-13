@@ -1,35 +1,31 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
+#include<map>
 using namespace std;
-//Wrong solution
+
+//may be Wrong solution
 class Solution {
 public:
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
         sort(profit.begin(), profit.end());
-        vector<int> id;
-
+        map<int , int >Jobs;
+        int n = startTime.size();
         int maxTime = 0;
-        int n = profit.size();
-        for(int i = 0; i < n; i++){
-            maxTime = max(maxTime, endTime[i] - startTime[i]);
-            id.push_back(i);
+        int maxProfit=0;
+        int prevProf=0;
+        for (int i=0;i<n;i++){
+                Jobs[endTime[i]]=profit[i];
         }
-        
-        vector<int> slot(maxTime + 1, -1);
-        int finalProfit = 0;
-        for(int i = 0; i < n; i++){
-            int currJob = id[i];
-            int dead = endTime[currJob] - startTime[currJob];
-            for(int p = dead; p > 0; p--){
-                if(slot[p] == -1){
-                    slot[p] = currJob;
-                    finalProfit += profit[currJob];
-                    break;
-                }
-            }
+        for(auto i =Jobs.begin();i!=Jobs.end();i++){
+            maxProfit+=max(maxProfit,i->second);
+            prevProf=maxProfit;
+            
         }
+        return maxProfit;
+
+
         
-        return finalProfit;
     }
+
 };
