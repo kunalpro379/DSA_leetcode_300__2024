@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
