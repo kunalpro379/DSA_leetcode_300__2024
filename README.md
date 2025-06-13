@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
