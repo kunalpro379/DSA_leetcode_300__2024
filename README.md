@@ -80,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
