@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
