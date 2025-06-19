@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0198-house-robber) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
