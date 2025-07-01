@@ -10,7 +10,12 @@ class Solution {
             int len=j-i;
             if(len>1){
                 for(int k=1;k<len;k++){
-                    String reducedGroup = String.valueOf(word.charAt(i)).repeat(k);
+                    StringBuilder sb=new StringBuilder();
+                    for(int m=0;m<k;m++){
+                        sb.append(word.charAt(i));
+                    }
+                    String reducedGroup=sb.toString();
+                    // String reducedGroup = String.valueOf(word.charAt(i)).repeat(k);
                     String newWord = word.substring(0, i) + reducedGroup + word.substring(j);
                     possible.add(newWord);
                 }
