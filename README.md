@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1275-validate-binary-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
