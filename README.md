@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0198-house-robber) |
 | [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
+| [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -115,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Tree
 |  |
