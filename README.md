@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
