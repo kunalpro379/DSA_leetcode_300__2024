@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -167,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
