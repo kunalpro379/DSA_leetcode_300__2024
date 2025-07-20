@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3617-find-the-original-typed-string-i) |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0503-next-greater-element-ii) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
