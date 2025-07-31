@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0605-can-place-flowers) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
