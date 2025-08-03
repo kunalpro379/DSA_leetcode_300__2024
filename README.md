@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
