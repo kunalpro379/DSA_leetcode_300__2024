@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-SELECT ID, MOVIE , description , RATING
+SELECT *
 FROM CINEMA
 WHERE MOD(ID, 2)=1
 AND 
