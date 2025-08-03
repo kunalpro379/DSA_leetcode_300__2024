@@ -215,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
