@@ -219,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
