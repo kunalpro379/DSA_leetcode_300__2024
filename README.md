@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0215-kth-largest-element-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0594-longest-harmonious-subsequence) |
