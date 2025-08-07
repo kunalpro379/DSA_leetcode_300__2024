@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0744-network-delay-time) |
 | [1275-validate-binary-tree-nodes](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1275-validate-binary-tree-nodes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0744-network-delay-time) |
 | [1275-validate-binary-tree-nodes](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1275-validate-binary-tree-nodes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0744-network-delay-time) |
 | [1275-validate-binary-tree-nodes](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1275-validate-binary-tree-nodes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Math
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0744-network-delay-time) |
 ## Design
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0744-network-delay-time) |
 | [2479-meeting-rooms-iii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2479-meeting-rooms-iii) |
 ## Stack
 |  |
