@@ -39,15 +39,21 @@ class Solution {
                     );
                 }
             };
-            // BiFunction<Integer, Integer, Integer>DP=new BiFunction<>(){
-            //     public Integer apply(Integer m, Integer n){
-            //         if()
-            //         if()
-            //         if()
-            //         if()
-            //         return
-            //     }
-            // }
+            BiFunction<Integer, Integer, Integer>DP=new BiFunction<>(){
+                public Integer apply(Integer m, Integer n){
+                    int[][] Tab=new int[m+1][n+1];{
+                    for(int i=0;i<=m;i++)Tab[i][0]=i;
+                    for(int j=0;j<=n;j++)Tab[0][j]=j;
+                    }
+                    for(int i=1;i<=m;i++){
+                        for(int j=1;j<=n;j++){
+                            if(word1.charAt(i-1)==word2.charAt(j-1))Tab[i][j]=Tab[i-1][j-1];
+                            else Tab[i][j]=1+Math.min(Tab[i-1][j], Math.min(Tab[i][j-1], Tab[i-1][j-1]));
+                        }
+                    }
+                    return Tab[m][n];
+                }
+            };
             // BiFunction<Integer, Integer, Integer>SPaceOpt=new BiFunction<>(){
             //     public Integer apply(Integer m, Integer n){
             //         if()
@@ -59,8 +65,8 @@ class Solution {
             // }
 
         // return Recursion.apply(word1.length(), word2.length());
-        return Memorization.apply(word1.length(), word2.length());
-        // return DP.apply();
-        // return SpaceOpt.apply();
+        // return Memorization.apply(word1.length(), word2.length());
+        return DP.apply(word1.length(), word2.length());
+        // return SpaceOpt.apply(word1.length(), word2.length());
     }
 }
