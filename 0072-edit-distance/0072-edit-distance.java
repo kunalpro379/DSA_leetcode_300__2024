@@ -54,19 +54,36 @@ class Solution {
                     return Tab[m][n];
                 }
             };
-            // BiFunction<Integer, Integer, Integer>SPaceOpt=new BiFunction<>(){
-            //     public Integer apply(Integer m, Integer n){
-            //         if()
-            //         if()
-            //         if()
-            //         if()
-            //         return
-            //     }
-            // }
+            BiFunction<Integer, Integer, Integer>SpaceOpt=new BiFunction<>(){
+                public Integer apply(Integer m, Integer n){
+                    int[] prev=new int[n+1];
+                    int[] curr=new int[n+1];
+                    for(int j=0;j<=n;j++)prev[j]=j;
+                    for(int i=1;i<=m;i++){
+                        curr[0]=i;
+                        for(int j=1;j<=n;j++){
+                            if(word1.charAt(i-1)==word2.charAt(j-1))curr[j]=prev[j-1];
+                            else{
+                                curr[j]=1+Math.min(
+                                    prev[j],
+                                    Math.min(
+                                        curr[j-1],
+                                        prev[j-1]
+                                    )
+                                );
+                            }
+                        }
+                        int[] temp=prev;
+                        prev=curr;
+                        curr=temp;
+                    }
+                    return prev[n];
+                }
+            };
 
         // return Recursion.apply(word1.length(), word2.length());
         // return Memorization.apply(word1.length(), word2.length());
-        return DP.apply(word1.length(), word2.length());
-        // return SpaceOpt.apply(word1.length(), word2.length());
+        // return DP.apply(word1.length(), word2.length());
+        return SpaceOpt.apply(word1.length(), word2.length());
     }
 }
