@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0021-merge-two-sorted-lists) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0021-merge-two-sorted-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
