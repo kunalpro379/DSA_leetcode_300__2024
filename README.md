@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0151-reverse-words-in-a-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0143-reorder-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kunalpro379/DSA_leetcode_300__2024/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
